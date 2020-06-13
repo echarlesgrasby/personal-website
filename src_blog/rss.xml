@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+<title>echarlesgrasby.xyz</title>
+<description>A really simple blog that I will sometimes dump thoughts into</description>
+<language>en-us</language>
+<link>https://echarlesgrasby.xyz/rss.xml</link>
+<atom:link href="https://echarlesgrasby.xyz/rss.xml" rel="self" type="application/rss+xml" />
+
+<!-- LB -->
+
+<item>
+<title>Thoughts At The End Of The World</title>
+<guid>https://echarlesgrasby.xyz/2020.php#thoughts-at-the-end-of-the-world</guid>
+<pubDate>Fri, 17 Apr 2020 03:04:15 +0000</pubDate>
+<description><![CDATA[
+<article>
+<p>
+  As the year 2020 progresses into late April, I can't help but wonder what myself in 2019 would think of the current state of the world. This time last year, the only thing on my mind was finding the perfect ring with which to propose to my fiancee. Fast-forward to now, the only thing on my mind is how to keep from climbing the walls to get out of this house. 
+</p>
+</article>
+]]></description>
+</item>
+
+
+
+
+</channel>
+</rss>
+
