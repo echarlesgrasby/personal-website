@@ -1,1 +1,0 @@
-./src_blog/2020.php

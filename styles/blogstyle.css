@@ -8,18 +8,15 @@ html {
 	padding-bottom: 200px;
 	 }
 
-a {color: royalblue; }
+a {color: crimson; }
 a:hover {color: lightblue; }
-
+small > a {color: white;}
 .entry {
-	border-left: 10px solid darkslategray;
-	border-top: 1px solid black;
-	border-right: 1px solid black;
-	border-bottom: 1px solid black;
+	border-left: 10px solid white;
 	padding: 0px 10px 0px 10px;
 	border-radius: 0 30px 30px 0;
 	margin-bottom: 20px;
-	background-color: #8A8382;
+	color: white; 
 	}
 
 .entry h2 { margin: 5px auto 2px auto; }

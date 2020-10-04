@@ -2,11 +2,11 @@
 <head>
 <title>Blog</title>
 <meta charset="utf-8"/>
-<link rel='stylesheet' type='text/css' href='./styles/styles.css'>
+<link rel='stylesheet' type='text/css' href='../styles/styles.css'>
 </head>
 
 <body>
-<?php include('./templates/header.php') ?>
+<?php include('../templates/header.php') ?>
 <h1>echarlesgrasby.xyz</h1>
 <!-- LB -->
 <div class='entry'>
@@ -20,7 +20,7 @@
 <small>Sun, 19 Apr 2020 03:39:28 +0000</small>
 </div>
 
-<?php include('./templates/footer.php') ?>
+<?php include('../templates/footer.php') ?>
 </body>
 </html>
 
